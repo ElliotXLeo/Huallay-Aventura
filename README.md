@@ -1,14 +1,14 @@
-# [Huayllay Aventura]() | [<img src="https://www.mndesign.es/wp-content/uploads/2014/04/linkedin-1200x400.jpg" width="75" height="25" />](https://www.linkedin.com/in/elliotgaramendi) | [<img src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png" width="87.4" height="25" />](https://github.com/ElliotXLeo) | [<img src="https://www.audienciaelectronica.net/wp-content/uploads/2018/08/facebook-text-logo.png" width="86.24" height="25" />](https://web.facebook.com/elliotgaramendi) 
+# [Huayllay Aventura](https://elliotxleo.github.io/Huallay-Aventura/Despliegue/Huayllay%20Aventura%20Web/) | [DEMO](https://elliotxleo.github.io/Huallay-Aventura/Despliegue/Huayllay%20Aventura%20Web/) | [<img src="https://www.mndesign.es/wp-content/uploads/2014/04/linkedin-1200x400.jpg" width="75" height="25" />](https://www.linkedin.com/in/elliotgaramendi) | [<img src="https://www.kindpng.com/picc/m/141-1419051_github-icon-png-transparent-png.png" width="87.4" height="25" />](https://github.com/ElliotXLeo) | [<img src="https://www.audienciaelectronica.net/wp-content/uploads/2018/08/facebook-text-logo.png" width="86.24" height="25" />](https://web.facebook.com/elliotgaramendi) 
 
 ## Plataformas
 ### Web
-[![Huayllay Aventura](./Capturas/Web.png)]()
+[![Huayllay Aventura](./Capturas/Web.png)](https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Web)
 
 ### Móvil
-[![Huayllay Aventura](./Capturas/Movil.png)]()
+[![Huayllay Aventura](./Capturas/Movil.png)](https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Movil)
 
 ### Escritorio
-[![Huayllay Aventura](./Capturas/Escritorio.png)]()
+[![Huayllay Aventura](./Capturas/Escritorio.png)](https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Escritorio)
 
 Videojuego Huayllay Aventura desarrollado en Unity 5 donde se aplican los conceptos de:
 - Realización de diseños multiplataforma funcionales en cualquier dispositivo.
@@ -32,7 +32,7 @@ Se tiene la carpeta de Despliegue que contiene compilados para ejecutar. .Exe pa
 ## Versiones
 | Web | Movil | Escritorio |
 | --- | --- | --- |
-| <a href="https://github.com/ElliotXLeo/control-presupuestario-js"><img src="./Capturas/Web.png"/></a> | <a href="https://github.com/ElliotXLeo/Huallay-Aventura"><img src="./Capturas/Movil.png" width="1000px"/></a> | <a href="https://github.com/ElliotXLeo/Huallay-Aventura"><img src="./Capturas/Escritorio.png" width="1000px"/></a> |
+| <a href="https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Web"><img src="./Capturas/Web.png"/></a> | <a href="https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Movil"><img src="./Capturas/Movil.png" width="1000px"/></a> | <a href="https://github.com/ElliotXLeo/Huallay-Aventura/tree/main/Despliegue/Huayllay%20Aventura%20Escritorio"><img src="./Capturas/Escritorio.png" width="1000px"/></a> |
 
 ## Redes sociales
 
